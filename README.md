@@ -15,7 +15,7 @@
 
 
 <h3 align="center">About me</h3>
-<p>I'm a computer science student at UNIT and I'm currently developing both frontend and backend</p>
+<p>I'm a computer science student at UNIT and I'm currently developing both frontend and backend.</p>
 
 <h3 align="center">Connect with me</h3>
 <div align="center">
