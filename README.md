@@ -1,7 +1,7 @@
 ## Hello there, meu nome é Lucas Alves 👋
 ### Welcome to my profile on Github
 
-<div>
+<div align="center">
 <a href="https://github.com/Lucas-A-Araujo">
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lucas-A-Araujo&layout=compact&langs_count=7&theme=dracula"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Lucas-A-Araujo&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
