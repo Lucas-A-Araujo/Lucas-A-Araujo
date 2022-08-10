@@ -1,4 +1,4 @@
-## Hello there, meu nome é Lucas Alves 👋
+## Hello there, my name is Lucas Alves 👋
 ### Welcome to my profile on Github
 
 <div align="center">
