@@ -4,7 +4,7 @@
 <div align="center">
 <a href="https://github.com/Lucas-A-Araujo">
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lucas-A-Araujo&layout=compact&langs_count=7&theme=dracula"/>
-<!-- <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Lucas-A-Araujo&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/> -->
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Lucas-A-Araujo&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
 
 <h3 align="center">Tools and technologies</h3>
